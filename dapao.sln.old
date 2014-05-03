@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{68F69129-5AD7-C85A-FB87-7B0100B89114}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{44C99903-034C-2617-DF14-7C11533B4607}"
+EndProject
+Project("{b955b5aa-9c1c-4cd6-9a10-9e34431be3eb}") = "Assembly-UnityScript-firstpass", "Assembly-UnityScript-firstpass.unityproj", "{B2FA9467-D15D-5441-A406-A68729C6E025}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44C99903-034C-2617-DF14-7C11533B4607}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44C99903-034C-2617-DF14-7C11533B4607}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44C99903-034C-2617-DF14-7C11533B4607}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44C99903-034C-2617-DF14-7C11533B4607}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68F69129-5AD7-C85A-FB87-7B0100B89114}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68F69129-5AD7-C85A-FB87-7B0100B89114}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68F69129-5AD7-C85A-FB87-7B0100B89114}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68F69129-5AD7-C85A-FB87-7B0100B89114}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2FA9467-D15D-5441-A406-A68729C6E025}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2FA9467-D15D-5441-A406-A68729C6E025}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2FA9467-D15D-5441-A406-A68729C6E025}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2FA9467-D15D-5441-A406-A68729C6E025}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+		Policies = $0
+		$0.TextStylePolicy = $1
+		$1.FileWidth = 120
+		$1.TabsToSpaces = False
+		$1.inheritsSet = VisualStudio
+		$1.inheritsScope = text/plain
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,36 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{5BB921BB-BD0A-F227-7EBF-1BC954DBA81C}") = "dapao", "Assembly-CSharp-vs.csproj", "{68F69129-5AD7-C85A-FB87-7B0100B89114}"
+EndProject
+Project("{5BB921BB-BD0A-F227-7EBF-1BC954DBA81C}") = "dapao", "Assembly-CSharp-Editor-vs.csproj", "{44C99903-034C-2617-DF14-7C11533B4607}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68F69129-5AD7-C85A-FB87-7B0100B89114}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68F69129-5AD7-C85A-FB87-7B0100B89114}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68F69129-5AD7-C85A-FB87-7B0100B89114}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68F69129-5AD7-C85A-FB87-7B0100B89114}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44C99903-034C-2617-DF14-7C11533B4607}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44C99903-034C-2617-DF14-7C11533B4607}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44C99903-034C-2617-DF14-7C11533B4607}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44C99903-034C-2617-DF14-7C11533B4607}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+					GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+		Policies = $0
+		$0.TextStylePolicy = $1
+		$1.FileWidth = 120
+		$1.TabsToSpaces = False
+		$1.inheritsSet = VisualStudio
+		$1.inheritsScope = text/plain
+	EndGlobalSection
+
+EndGlobal
